@@ -53,18 +53,18 @@
 	],
 	"screenshots": [
 		{
-			"src": "img/icons/icon-192x192.png",
-			"sizes": "192x192",
+			"src": "img/icons/icon-512x512.png",
+			"sizes": "512x512",
 			"type": "image/png",
 			"form_factor": "narrow",
-			"label": "Vista móvil de Chat para Superhéroes"
+			"label": "Vista móvil de Chat para héroes"
 		},
 		{
 			"src": "img/icons/icon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"form_factor": "wide",
-			"label": "Vista escritorio de Chat para Superhéroes"
+			"label": "Vista escritorio de Chat para héroes"
 		}
 	],
 	"shortcuts": [
